@@ -4,16 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="65f02739-301e-4a99-91ef-9aba310278e3" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/brief/projet_instructions_fr.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/brief/projet_instructions_fr.ipynb" afterDir="false" />
-    </list>
+    <list default="true" id="65f02739-301e-4a99-91ef-9aba310278e3" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/scraping_book" />
   </component>
   <component name="GitHubPullRequestSearchHistory">{
   &quot;lastFilter&quot;: {
@@ -40,7 +38,7 @@
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
-    "git-widget-placeholder": "<unknown>",
+    "git-widget-placeholder": "main",
     "junie.onboarding.icon.badge.shown": "true",
     "last_opened_file_path": "C:/Users/gabrd/Downloads/scraping_books/brief/img",
     "node.js.detected.package.eslint": "true",
@@ -99,12 +97,16 @@
       <updated>1761138352424</updated>
       <workItem from="1761138353598" duration="855000" />
       <workItem from="1761139453876" duration="161000" />
-      <workItem from="1761140644200" duration="4107000" />
+      <workItem from="1761140644200" duration="4409000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Initial commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
